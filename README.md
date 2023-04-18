@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+SEARCH+BOT+!;CREATED+BY+TECHNICAL+CYNITE!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+SEARCH+BOT+!;CREATED+BY+AASHU+KR!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 </p>
@@ -58,4 +58,4 @@
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyniteofficial/Auto-Filter-V5)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyniteOfficial/Auto-Filter-V5-Without-UrlShortner)
